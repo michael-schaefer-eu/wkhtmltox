@@ -2,7 +2,7 @@
     "name": "michael-schaefer-eu/wkhtmltox",
     "description": "wkhtmltopdf and wkhtmltoimage linux binaries - Convert HTML to PDF or IMAGE using Webkit (QtWebKit)",
     "keywords": ["htmltox", "htmltopdf", "htmltoimage", "pdf", "thumbnail", "snapshot", "jpg", "png", "convert", "binary"],
-    "license": "LGPL Version 3",
+    "license": "LGPL-3.0-only",
     "homepage": "http://wkhtmltopdf.org/",
     "authors": [
         {
