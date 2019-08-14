@@ -18,6 +18,12 @@
         "bin/wkhtmltoimage-bionic-i386",
         "bin/wkhtmltopdf-bionic-i386"
     ],
+    "replace": {
+        "h4cc/wkhtmltopdf-i386": "0.12.4",
+        "h4cc/wkhtmltopdf-amd64": "0.12.4",
+        "h4cc/wkhtmltoimage-i386": "0.12.4",
+        "h4cc/wkhtmltoimage-amd64": "0.12.4"
+    },
     "require": {
     },
     "autoload": {
